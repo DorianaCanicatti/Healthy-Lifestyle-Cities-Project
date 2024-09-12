@@ -8,6 +8,6 @@ The goal was to predict the level of happiness Of each country, as well as to tr
 within themselves with respect to their lifestyles and finally to identify the main component variables that have the most weight in determining these classifications.
 
 METODOLOGIES USED:
-- Lineare regression
+- Linear regression
 - Cluster analysis
 - Principal Component analysis
