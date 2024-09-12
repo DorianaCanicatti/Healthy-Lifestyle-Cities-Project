@@ -4,7 +4,7 @@ The data refer to 2021, and the ranking is based on a number of variables (12) c
 (more info on Kaggle).
 
 THE SCOPE:
-The goal was to predict the level of happiness Of each country, as well as to try to identify groups of countries that are homogeneous 
+The goal was to predict the level of happiness of each country, as well as to try to identify groups of countries that are homogeneous 
 within themselves with respect to their lifestyles and finally to identify the main component variables that have the most weight in determining these classifications.
 
 METODOLOGIES USED:
